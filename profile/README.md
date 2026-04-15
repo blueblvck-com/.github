@@ -135,52 +135,38 @@ From scalable backend infrastructure to AI-powered platforms, immersive digital 
 </div>
 
 <details>
-<summary><b>🔵 &nbsp;Apex Analytics — Enterprise Data Platform</b></summary>
+<summary><b>🔵 &nbsp;Lilax Beauty Salon</b></summary>
 <br/>
 
-> **Stack:** React · Django · GCP · Docker · BigQuery · PostgreSQL
+> **Stack:** React · Python · Django · AWS · PostgreSQL
 
-A powerful analytics platform integrating **100+ diverse data systems** into a single, unified analytics hub. Features real-time KPI dashboards, dynamic reporting, and enterprise-grade security — all containerized for seamless deployment at scale.
+End-to-end modernization of a luxury beauty clinic platform, migrating from legacy PHP to a high-performance React architecture with 3× faster load times.
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-Lilax%20Beauty%20Salon-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lilax-website.vercel.app/)
 
 </details>
 
 <details>
-<summary><b>🔵 &nbsp;Avenix — Enterprise AI Platform</b></summary>
+<summary><b>🔵 &nbsp;Addictive Ads</b></summary>
 <br/>
 
-> **Stack:** React · TypeScript · Node.js · LangChain · PostgreSQL · Redis · WebSockets
+> **Stack:** React · TypeScript · Python · Django · LangChain · MongoDB · LLM Prompt Routing
 
-A dual-role AI platform delivering advanced LLM integration, contextual memory, and real-time data sync with **sub-second latency**. Delivered **3 months ahead of schedule** with a 40% improvement in query performance.
+LLM-powered ad automation platform enabling real-time campaign creation, tracking, and optimization. Built for high-scale fintech and data-driven marketing teams.
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-Addictive%20Ads-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.addictiveads.com/)
 
 </details>
 
 <details>
-<summary><b>🔵 &nbsp;EvaluaSys AI — Intelligent Evaluation Portal</b></summary>
+<summary><b>🔵 &nbsp;Food Club</b></summary>
 <br/>
 
-> **Stack:** React · Flask · MongoDB · Speech-to-Text · NLP · AI/ML
+> **Stack:** React · Python · Django · FastAPI · Postgres
 
-A large-scale web portal automating academic project evaluation using Facial Detection, NLP-driven Q&A, dynamic quiz generation, and plagiarism detection — replacing manual evaluation pipelines entirely.
+Scalable full-stack food ordering system with real-time menu management and seamless online/offline ordering infrastructure.
 
-</details>
-
-<details>
-<summary><b>🔵 &nbsp;Raah-e-Raast — Travel & Guide Platform</b></summary>
-<br/>
-
-> **Stack:** Android (Kotlin) · Firebase · Google Maps API · MVVM
-
-A native Android platform connecting tourists with verified local guides — featuring real-time GPS tracking, geofencing, secure booking, and a **1,000+ active user** base since 2023. Achieved a **40% reduction** in battery consumption through intelligent location optimization.
-
-</details>
-
-<details>
-<summary><b>🔵 &nbsp;AdSync Pro — Ad Management & Automation Platform</b></summary>
-<br/>
-
-> **Stack:** Django · Next.js · MongoDB · LLM Prompt Engineering
-
-A full-stack ad management platform with AI-driven campaign creation, real-time performance analytics, and automated workflows — designed to streamline the entire advertising lifecycle.
+[![Coming Soon](https://img.shields.io/badge/Food%20Club-Coming%20Soon-1e3a8a?style=for-the-badge&logo=hourglass&logoColor=white)](#)
 
 </details>
 
